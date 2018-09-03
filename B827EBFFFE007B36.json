@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE007B36", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 41.4017706, 
+		"ref_longitude": 2.1615324, 
+		"ref_altitude": 18, 
+		"contact_email": "joanqc@gmail.com", 
+		"description": "Joan Quintana-joanillo Gateway test. Barcelona-Eixample" 
+	} 
+}
